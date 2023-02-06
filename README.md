@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Minh-John-Le
-- 👀 I’m interested in AI Development, Web Development and Data Scientist
-- 🌱 I’m currently learning Computer Science at San Jose State University
-- 💞️ I’m looking to collaborate on AI developement project
+- 👀 I’m interested in AI Development, Web Development and Data Scientist.
+- 🌱 I’m currently learning Computer Science at San Jose State University.
+- 💞️ I’m looking to Data Scientist and Software Engineer jobs opportunity.
 - 📫 How to reach me : hungle0614@gmail.com
 
 <!---
